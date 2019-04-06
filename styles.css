@@ -1,0 +1,17 @@
+.size {
+  position: fixed;
+}
+.width{
+  position: relative;
+  
+  width: 100% !important;
+  height: 420px !important;
+ 
+  background: #57ef00;
+}
+
+.heatmap-canvas {
+  width: 550px !important;
+  align-content: center;
+
+}
